@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Application Configuration</comment>
+	<!--
+    <entry key="HOME_PATH">D:\trade\downloads</entry>
+    <entry key="DD_FileLink">https://www.nseindia.com/api/equity-stockIndices?csv=true&amp;index=SECURITIES%20IN%20F%26O</entry>
+    <entry key="CM_BaseLink">https://www1.nseindia.com/content/historical/EQUITIES</entry>
+    <entry key="FO_BaseLink">https://www1.nseindia.com/content/historical/DERIVATIVES</entry>
+    <entry key="MTO_BaseLink">https://www1.nseindia.com/archives/equities/mto</entry>
+	-->
+    <entry key="CUSTOM_DATE_ENABLED">false</entry>
+    <entry key="CUSTOM_DATE">21-Feb-2020</entry>
+</properties>
